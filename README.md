@@ -1,2 +1,0 @@
-# recordum-privacy
-Privacy Policy
